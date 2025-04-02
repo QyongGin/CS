@@ -1,0 +1,20 @@
+C:\Users\dydwl\OneDrive - 인하공업전문대학\공부\c#\Week04KimYongJin\Week04HomeWork\bin\Debug\Week04HomeWork.exe.config
+C:\Users\dydwl\OneDrive - 인하공업전문대학\공부\c#\Week04KimYongJin\Week04HomeWork\bin\Debug\Week04HomeWork.exe
+C:\Users\dydwl\OneDrive - 인하공업전문대학\공부\c#\Week04KimYongJin\Week04HomeWork\bin\Debug\Week04HomeWork.pdb
+C:\Users\dydwl\OneDrive - 인하공업전문대학\공부\c#\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.csproj.AssemblyReference.cache
+C:\Users\dydwl\OneDrive - 인하공업전문대학\공부\c#\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.FormManager.resources
+C:\Users\dydwl\OneDrive - 인하공업전문대학\공부\c#\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.Properties.Resources.resources
+C:\Users\dydwl\OneDrive - 인하공업전문대학\공부\c#\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.csproj.GenerateResource.cache
+C:\Users\dydwl\OneDrive - 인하공업전문대학\공부\c#\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\dydwl\OneDrive - 인하공업전문대학\공부\c#\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.exe
+C:\Users\dydwl\OneDrive - 인하공업전문대학\공부\c#\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.pdb
+D:\202244092\C#_202244092\Week04KimYongJin\Week04HomeWork\bin\Debug\Week04HomeWork.exe.config
+D:\202244092\C#_202244092\Week04KimYongJin\Week04HomeWork\bin\Debug\Week04HomeWork.exe
+D:\202244092\C#_202244092\Week04KimYongJin\Week04HomeWork\bin\Debug\Week04HomeWork.pdb
+D:\202244092\C#_202244092\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.csproj.AssemblyReference.cache
+D:\202244092\C#_202244092\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.FormManager.resources
+D:\202244092\C#_202244092\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.Properties.Resources.resources
+D:\202244092\C#_202244092\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.csproj.GenerateResource.cache
+D:\202244092\C#_202244092\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.csproj.CoreCompileInputs.cache
+D:\202244092\C#_202244092\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.exe
+D:\202244092\C#_202244092\Week04KimYongJin\Week04HomeWork\obj\Debug\Week04HomeWork.pdb
