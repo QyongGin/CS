@@ -4,7 +4,7 @@
 ```c#
 public partial class FormManager : Form
 {
-    public string PATH
+    public string PATH    
     {
         get {
             var path = "c:\\class_c"; // 파일 지정
